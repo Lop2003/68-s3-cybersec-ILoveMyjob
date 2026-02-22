@@ -2,7 +2,7 @@
 
 ## Member
 - s6702041511233 Thananan Detmongkhonsri 
-- s670204151
+- s6702041511161 Naphatson Phokhonwong
 - s670204151
 - s6702041511195 Setthanan Thipsangwan
 - s670204151
