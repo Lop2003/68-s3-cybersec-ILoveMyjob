@@ -2,4 +2,4 @@ include:
   - db.yaml
   - admin.yaml
   - app.yaml
-
+  - web.yaml
