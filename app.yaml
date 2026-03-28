@@ -1,7 +1,7 @@
 services:
   s3app:
     image: prawee/strapi:latest
-    container_name: 68-s3-app
+    container_name: 68_s3_ILoveMyJob_app
     restart: unless-stopped
     env_file:
       - .env

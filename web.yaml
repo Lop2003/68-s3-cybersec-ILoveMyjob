@@ -1,7 +1,7 @@
 services:
   s3web:
     image: caddy:latest
-    container_name: 68-s3-web
+    container_name: 68_s3_ILoveMyJob_web
     restart: unless-stopped
     env_file:
       - .env

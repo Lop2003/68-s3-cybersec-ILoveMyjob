@@ -1,7 +1,7 @@
 services:
   s3db:
     image: postgres:16
-    container_name: 68-s3-database
+    container_name: 68_s3_ILoveMyJob_db
     restart: unless-stopped
     environment:
       POSTGRES_USER: "${DATABASE_USER}"

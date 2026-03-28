@@ -1,7 +1,7 @@
 services:
   s3admin:
     image: dpage/pgadmin4:latest
-    container_name: 68-s3-admin
+    container_name: 68_s3_ILoveMyJob_admin
     restart: unless-stopped
     env_file:
       - .env
